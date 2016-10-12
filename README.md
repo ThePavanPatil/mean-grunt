@@ -14,6 +14,7 @@ A simple MEAN app can use Grunt. Our app will consist of:
 #Installation
 
 1. Download the repository
+2. Make sure you have Node in your system, if not Install [Node.js](https://nodejs.org/en/) (NPM is automatically installed with Node)
 2. Install grunt: `npm install -g grunt-cli`
 3. Install npm modules: `npm install` (packages in the newly automatically created node_modules folder)
 4. Start up the server: `grunt`
