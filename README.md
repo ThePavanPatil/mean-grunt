@@ -17,7 +17,7 @@ A simple MEAN app can use Grunt. Our app will consist of:
 2. Install grunt: `npm install -g grunt-cli`
 3. Install npm modules: `npm install` (packages in the newly automatically created node_modules folder)
 4. Start up the server: `grunt`
-5. View in browser at http://localhost:8080
+5. View in browser at `http://localhost:8080`
 
 
 Use this starter kit to build any MEAN stack application you like.
