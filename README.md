@@ -1,6 +1,6 @@
 #Using Grunt to automate a MEAN stack application.
 
-This is a repository for a starter appliation for a Single Page MEAN Stack application using grunt.
+This is a repository for a starter appliation for a Single Page MEAN Stack (Mongodb, Express.js, Angular.js, Node.js) application using grunt.
 
 A simple MEAN app can use Grunt. Our app will consist of:
 
