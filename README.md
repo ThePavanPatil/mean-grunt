@@ -11,13 +11,12 @@ A simple MEAN app can use Grunt. Our app will consist of:
 - Use Grunt to watch for file changes and process them
 - Use Grunt to start the Node server
 
-#[Installation]
-This site was built using [GitHub Pages](https://pages.github.com/).
+#Installation
 
 1. Download the repository
 2. Install grunt: `npm install -g grunt-cli`
-3. Install npm modules: npm install (packages in the newly automatically created node_modules folder)
-4. Start up the server: grunt
+3. Install npm modules: `npm install` (packages in the newly automatically created node_modules folder)
+4. Start up the server: `grunt`
 5. View in browser at http://localhost:8080
 
 
